@@ -1,0 +1,39 @@
+.home {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 50px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    background-color: #ff5722;
+    border: none;
+}
+
+footer {
+    background: #fff;
+    padding: 20px 0;
+    margin-top: 40px;
+    color: #333;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #ff5722;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #333;
+}
+.btn-custom {
+    background-color: #ff5722; /* Original background color */
+    color: white; /* Original text color */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+.btn-custom:hover {
+    background-color: rgb(255, 255, 255); /* Background color on hover */
+    color: #2575fc; /* Text color on hover */
+}

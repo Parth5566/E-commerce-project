@@ -1,0 +1,15 @@
+.btn-primary:hover {
+    background-color: #000000; /* Darker blue */
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #6c757d; /* Darker grey */
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-success:hover {
+    background-color: #28a745; /* Darker green */
+    transition: background-color 0.3s ease;
+  }
+  
